@@ -10,12 +10,12 @@ bilingual_sub_tool.py
   
   example input:
   
-  >这是中文
-  >This is in English
-  >又是中文
+  >这是中文\n
+  >This is in English\n
+  >又是中文\n
   >English again
   
   output:
-  >这是中文\n{\rDefault}This is in English
+  >这是中文\n{\rDefault}This is in English\n
   >又是中文\n{\rDefault}English again
   
