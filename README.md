@@ -1,8 +1,8 @@
-# sub_tools
-toos for making subtitles
+sub_tools  
+tools for making subtitles
 
 
-bilingual_sub_tool.py
+###bilingual_sub_tool.py
   
   input file format: text file, subtitle language 1 on odd lines, language 2 on even lines
   
